@@ -1,7 +1,5 @@
-# cv
+# Hi! This is my CV
 
-Gao Haoyang's Curriculum Vitae
+Karolina Ladino's Curriculum Vitae
 
-我的个人在线简历
-
-http://gaohaoyang.github.io/cv/
+http://karoladino.github.io/cv/
